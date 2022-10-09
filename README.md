@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NikitaPanasevych
+- 👋 Hi, I’m @NikitaPanasevych💙💛
 
 <!---
 NikitaPanasevych/NikitaPanasevych is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
