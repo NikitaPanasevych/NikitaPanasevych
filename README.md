@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **n.panasevych@gmail.com**
 
-- 👨‍💻 Know about my experiences [https://developer-website-aa88c.web.app](https://developer-website-aa88c.web.app)
+- 👨‍💻 Know about my experiences <a href="https://personal-portfolio-website-egrpq91bl-nikitapanasevych.vercel.app">website</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
