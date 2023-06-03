@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **n.panasevych@gmail.com**
 
-- 👨‍💻 Know about my experiences <a href="https://personal-portfolio-website-egrpq91bl-nikitapanasevych.vercel.app">website</a>
+- 👨‍💻 Know about my experiences <a href="https://personal-portfolio-website-omega.vercel.app">portfolio website</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
