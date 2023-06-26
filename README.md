@@ -7,6 +7,10 @@
 
 - 👨‍💻 Know about my experiences <a href="https://personal-portfolio-website-omega.vercel.app">portfolio website</a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeStRaaM&layout=compact)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DeStRaaM&theme=dark)](https://git.io/streak-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nikita panasevych" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita panasevych" height="30" width="40" /></a>
